@@ -1,0 +1,49 @@
+/* fonts import */
+@font-face {
+  font-family: "Poppins";
+  font-weight: 200;
+  font-display: swap;
+  src: url(../fonts/poppins-extra_light.woff2);
+}
+@font-face {
+  font-family: "Poppins";
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/poppins-light.woff2);
+}
+@font-face {
+  font-family: "Poppins";
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/poppins-regular.woff2);
+}
+@font-face {
+  font-family: "Poppins";
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/poppins-medium.woff2);
+}
+@font-face {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/poppins-semi_bold.woff2);
+}
+@font-face {
+  font-family: "Poppins";
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/poppins-bold.woff2);
+}
+@font-face {
+  font-family: "Poppins";
+  font-weight: 800;
+  font-display: swap;
+  src: url(../fonts/poppins-extra_bold.woff2);
+}
+@font-face {
+  font-family: "Poppins";
+  font-weight: 900;
+  font-display: swap;
+  src: url(../fonts/poppins-black.woff2);
+}
